@@ -1,0 +1,8 @@
+# Ignorar o arquivo .env que contém a chave API
+.env
+
+# Ignorar arquivos temporários e de sistema
+*.pyc
+__pycache__/
+*.log
+.DS_Store
