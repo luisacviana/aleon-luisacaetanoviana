@@ -1,7 +1,7 @@
-# Ignorar o arquivo .env que contém a chave API
+# Arquivo .env que contém a chave API para maior segurança
 .env
 
-# Ignorar arquivos temporários e de sistema
+# Arquivos temporários e de sistema (extra)
 *.pyc
 __pycache__/
 *.log
