@@ -1,0 +1,158 @@
+﻿Apresentação
+
+
+Sendo uma das maiores influências e organizações no mundo científico moderno, a NASA é referência na exploração espacial e desenvolvimento de novas tecnologias. De forma a contribuir com a comunidade pesquisadora e entusiastas, a agência disponibiliza inúmeros recursos por meio de suas APIs - dados confiáveis e de alta qualidade. Nesse contexto, este projeto busca explorar essas informações por meio de recursos computacionais com o objetivo de analisar dados relevantes e discutir problemas, soluções e propor novos caminhos.
+
+
+O tópico escolhido para ser trabalhado foi o “Astronomy Picture Of the Day”, também mencionado como “APOD”. Essa escolha foi baseada principalmente na popularidade do site, na forma de acesso às APIs, no seu banco de dados completo e extenso e por curiosidade pessoal. Suas informações podem ser aplicadas para diferentes análises. Nesta ocasião em particular, busquei dados sobre a frequência de fotos e vídeos, quantidades ao decorrer do ano e equipamentos/profissionais que capturaram a maior quantidade dessas mídias.
+
+
+Dessa forma, apresento meus resultados e discussões.
+
+
+Resultados e Discussões
+
+
+* Primeira Análise: Frequência de Tipos de Mídia por Mês
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reportando dados no período de um ano, é possível observar a frequência dos tipos de mídia durante os meses. Graficamente, é evidente a diferença entre os tipos: as imagens são muito mais prevalentes do que os vídeos, que, mesmo nos meses com maiores frequências, corresponderam no máximo a 10% das capturas obtidas. 
+
+
+Essa diferença é consequência do custo elevado e da necessidade de tecnologias complexas para a captura de vídeos no espaço, contribuindo para que esse formato de mídia seja menos trabalhado e divulgado.
+
+
+Entretanto, essa lacuna representa a possibilidade de investimento no setor. Considerando este como um problema geral na comunidade científica, o desenvolvimento de equipamentos de alta tecnologia para esse propósito seria um diferencial no mercado. Apesar do alto custo e da complexidade mencionada anteriormente, ainda é um ramo pouco explorado com potencial significativo e necessidade de novas ideias.
+
+
+* Segunda Análise: Número de Imagens por Mês
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seguindo um padrão similar ao da primeira análise, é possível notar que as variações são mínimas e acompanham as barras do primeiro gráfico apresentado.
+
+
+Em geral, os números correspondem à quantidade de dias dos meses - exceto poucas e mínimas exceções, com variação média de uma imagem a mais ou a menos. Essa informação confere a característica constante da plataforma, indicador positivo considerando que as mídias disponibilizadas acompanham descrições e dados relevantes sobre elas. 
+
+
+De forma geral, a constância do monitoramento astronômico e da divulgação de materiais coletados contribui para o banco de dados da agência e para pesquisas espaciais avançadas, evidenciando seu alto desempenho como agência espacial e compromisso com a comunidade científica mundial.
+
+
+
+
+
+
+
+
+
+
+
+
+* Terceira Análise: Equipamentos/Profissionais que Capturaram Mais Fotos ou Vídeos  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nessa última análise, meu objetivo era encontrar os equipamentos que capturaram mais fotos ou vídeos para discutir performance, investimentos e desenvolvimento tecnológico. Entretanto, a coluna de “copyright” das APIs são relacionadas aos profissionais responsáveis por essas capturas. Em algumas imagens na plataforma é indicada a expedição espacial ou o equipamento utilizado, mas essas informações não constam no “copyright”. Apesar da situação, ainda é possível discutir sobre os resultados. 
+
+
+Considerando que foram encontrados, em média, 365 (trezentos e sessenta e cinco) resultados dentro do período de tempo estudado e os dois primeiros colocados capturaram 6 (seis) imagens, é admissível concluir que a quantidade de material obtido por pessoa é relativamente pequena. No entanto, esse fator sugere uma ampla colaboração e participação de diversos profissionais na área e a valorização da obtenção de um conteúdo de qualidade com relevância para o estudo espacial em oposição à quantidade (por pessoa).
+
+
+Portanto, os resultados obtidos no intervalo analisado permitem concluir que a cooperação de cientistas e pesquisadores do ramo é essencial para a aquisição de conteúdo de alta qualidade. Isso indica que, além da necessidade de expansão e refinamento tecnológico, a base fundamental para o avanço científico é o investimento no conhecimento e o incentivo à pesquisa.
+
+
+Conclusão
+
+
+A partir da análise dos gráficos obtidos com dados da API da Nasa, é possível observar um desafio recorrente no mundo científico e as possibilidades e oportunidades existentes. A prevalência de imagens e o constante fluxo de divulgação de materiais sugere um impasse na astronomia moderna que atinge até mesmo grandes agências espaciais como a Nasa: o comprometimento com a ciência e a pesquisa acessível para a população e as limitações destas. 
+De forma geral, essas limitações podem ser interpretadas como oportunidade para a exploração e desenvolvimento de tecnologias mais avançadas e complexas. No entanto, até que essa solução seja efetivamente implementada, a lacuna nesse setor continuará sendo um obstáculo para o avanço do conhecimento astronômico.
+
+
+Por outro lado, os gráficos também indicam um fluxo constante de informações e materiais divulgados, indicando que, mesmo com as barreiras encontradas dificultando o desenvolvimento em certo grau, a agência e seus parceiros apresentam alto desempenho e sofisticação tecnológica.
+
+
+Além disso, a ampla contribuição de diversos profissionais da área demonstra a necessidade do investimento na educação e na pesquisa científica. Essas ações, combinadas com novas descobertas e desenvolvimento desses projetos (baseadas em lacunas como a encontrada na primeira análise), é favorável para o crescimento econômico e intelectual em escala global.
